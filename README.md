@@ -59,7 +59,7 @@ Se você conhece iniciativas, repositórios ou grupos de estudo para iniciantes,
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/luis-almeida-5029b6367)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-almeida-5029b6367/)
 - 📧 [E-mail para contato](luiseduardoalmeida2803@gmail.com)
 
 ---
