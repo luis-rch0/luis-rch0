@@ -1,14 +1,14 @@
 # 👩‍💻 Luis Eduardo R. de Almeida
 
-🐍 Estudante de Python | Iniciante em Desenvolvimento | Buscando Projetos para Evoluir
+🐍 Estudante de Python e Java | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
 
 ---
 
 ## 📌 Sobre Mim
 
-Olá! Sou estudante da área de **Desenvolvimento de Sistemas**, atualmente focado(a) no aprendizado da linguagem **Python**. Estou em busca de projetos simples, desafios e oportunidades de prática que me ajudem a aplicar o que venho estudando.
+Olá! Sou estudante da área de **Desenvolvimento de Sistemas**, atualmente focado no Desenvolvivemento de Aplicativos. Estou em busca de projetos, desafios e oportunidades de prática que me ajudem a aplicar o que venho estudando.
 
-Sou curioso(a), determinado(a) e acredito que aprender na prática é essencial para evoluir como desenvolvedor(a). Ainda estou no começo da minha jornada, mas sigo motivado(a) a crescer um pouco a cada dia.
+Sou curioso, determinado e acredito que aprender na prática é essencial para evoluir como desenvolvedor. Ainda estou no começo da minha jornada, mas sigo motivado a crescer um pouco a cada dia.
 
 ---
 
@@ -19,14 +19,14 @@ Sou curioso(a), determinado(a) e acredito que aprender na prática é essencial 
 📍 [Petróplis/RJ]  
 - Estou ainda cursando
 
-Disciplinas em andamento: Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programação Web, e Programação com Python.
+Disciplinas em andamento: Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programação Web, e Projetos com Python, Projetos com Java e Spring Boot.
 
 ---
 
 ## 🧰 Ferramentas que Estou Aprendendo a Usar
 
 - **Editor de Código:** Visual Studio Code  
-- **Controle de Versão:** Git e GitHub (nível básico)  
+- **Controle de Versão:** Git e GitHub
 - **Execução de Códigos:** Terminal/Prompt de Comando e VS Code  
 - **Plataformas de Prática:** Replit, Google Colab, Jupyter Notebook
 
@@ -48,12 +48,10 @@ Tenho buscado me envolver em atividades que me desafiem a pensar logicamente, es
 Alguns dos meus objetivos a curto e médio prazo incluem:
 
 - Participar de projetos open source voltados a iniciantes  
-- Colaborar com pessoas experientes na área
+- Colaborar com pessoas experientes na área, visando o aprendizado
 - Desenvolver pequenos sistemas com funcionalidades práticas  
 - Aprimorar meu conhecimento em Python, Git e lógica de programação  
 - Compreender melhor o ciclo de vida de um software (planejamento até entrega)
-
-Se você conhece iniciativas, repositórios ou grupos de estudo para iniciantes, ficarei feliz em participar!
 
 ---
 
