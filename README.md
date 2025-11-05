@@ -63,10 +63,13 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 
 ---
 
-## ☁️ Cursos e Certificações
+## ☁️ Cursos
+
 
 📘 **AWS Certified Cloud Practitioner** — Fundamentos de computação em nuvem, serviços da AWS, segurança e boas práticas.
+
 ---
+
 
 ## 🎯 Objetivo Atual
 
