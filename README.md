@@ -34,7 +34,7 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias/Capacidades Técnicas
 
 ### ☁️ Cloud Services
 
