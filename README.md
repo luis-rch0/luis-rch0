@@ -1,7 +1,7 @@
 
 # 👩‍💻 Luis Eduardo R. de Almeida
 
-🐍 Estudante de Python e Java | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
+🐍 Estudante de Desenvolvimento de Sistemas | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
 
 ---
 
@@ -34,7 +34,7 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 
 ---
 
-## 🚀 Tecnologias/Capacidades Técnicas
+## 🚀 Capacidades técnicas em curso
 
 ### ☁️ Cloud Services
 
