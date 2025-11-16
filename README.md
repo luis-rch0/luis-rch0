@@ -60,7 +60,7 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%23007ACC.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArUlEQVQ4jc2SMQ6CQBBFXxQUSKCikpZ2Eio6iYjomI7iMgj+g1FJEkJxCdm42Fxe7SxWvtt7O7uzs7IJCMfBf0zQxv8EjHjCwAIg7YQBPV5qKlp6ZxAPkqkAkKqBt2CS0XwA5G6QLvDo+zAPqZq3GqB8Ac7kZyTgF5CJ5yKvD1mgJ8ArjW4nvstQAbqouZ5dzWBiP1lN1JwLk4KqT9m5KkPxQejUvtD6A5vMYS7C7snAAAAABJRU5ErkJggg==&logoColor=white)
 
 
 ---
