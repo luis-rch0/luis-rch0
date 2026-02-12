@@ -30,7 +30,7 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 * **Editor de Código:** Visual Studio Code
 * **Controle de Versão:** Git e GitHub
 * **Execução de Códigos:** Terminal/Prompt de Comando e VS Code
-* **Plataformas de Prática:** Replit, Google Colab, Jupyter Notebook
+* **Plataformas de Prática:** Google Colab, Jupyter Notebook
 
 ---
 
