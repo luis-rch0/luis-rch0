@@ -1,7 +1,7 @@
 
 # 👩‍💻 Luis Eduardo R. de Almeida
 
-🐍 Estudante de Desenvolvimento de Sistemas | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
+Estudante de Desenvolvimento de Sistemas | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
 
 ---
 
@@ -21,7 +21,7 @@ Sou curioso, determinado e acredito que aprender na prática é essencial para e
 📘 *Cursando atualmente*
 
 **Disciplinas em andamento:**
-Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programação Web, Projetos com Python, Projetos com Java e Spring Boot.
+Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programação Web, Projetos com Java e Spring Boot.
 
 ---
 
@@ -82,7 +82,7 @@ Atualmente, estou focado em **projetos para evoluir** e **projetos colaborativos
 * Participar de projetos *open source* voltados a iniciantes
 * Colaborar com desenvolvedores mais experientes
 * Criar pequenos sistemas com aplicações reais
-* Aprimorar meu conhecimento em Python, Git e lógica de programação
+* Aprimorar meu conhecimento em Java, Git e lógica de programação
 * Entender melhor o ciclo completo de desenvolvimento de software
 
 ---
