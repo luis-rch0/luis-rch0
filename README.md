@@ -1,7 +1,11 @@
-
+<div align="center">
 # 👩‍💻 Luis Eduardo R. de Almeida
 
 Estudante de Desenvolvimento de Sistemas | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Java+e+Spring+Boot;Explorando+Cloud+e+Intelig%C3%AAncia+Artificial;Construindo+projetos+para+evoluir" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -30,7 +34,6 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 * **Editor de Código:** Visual Studio Code
 * **Controle de Versão:** Git e GitHub
 * **Execução de Códigos:** Terminal/Prompt de Comando e VS Code
-* **Plataformas de Prática:** Google Colab, Jupyter Notebook
 
 ---
 
@@ -42,13 +45,8 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 
 ### 💻 Linguagens Back-End
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
 
-### 🎨 Linguagens Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
@@ -69,6 +67,12 @@ Lógica de Programação, Fundamentos da Computação, Banco de Dados, Programa�
 
 
 📘 **AWS Certified Cloud Practitioner** — Fundamentos de computação em nuvem, serviços da AWS, segurança e boas práticas.
+
+---
+
+🤖 **Introdução à IA Moderna — Cisco Networking Academy**
+
+Curso voltado aos fundamentos da **Inteligência Artificial moderna**, abordando conceitos essenciais sobre IA e suas aplicações.
 
 ---
 
