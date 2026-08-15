@@ -3,7 +3,7 @@
 
 Estudante de Desenvolvimento de Sistemas | Aspirante a Desenvolvedor | Buscando Projetos para Evoluir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Java+e+Spring+Boot;Explorando+Cloud+e+Intelig%C3%AAncia+Artificial;Construindo+projetos+para+evoluir" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Explorando++Intelig%C3%AAncia+Artificial;Buscando+Evoluir+a+cada+dia!" alt="Typing SVG" />
 
 </div>
 
